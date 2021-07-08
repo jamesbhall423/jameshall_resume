@@ -16,15 +16,11 @@ Student at BYU Idaho
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.8 Major GPA
 
 
 ## Related Experience
