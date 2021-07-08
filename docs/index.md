@@ -3,7 +3,7 @@ layout: cv
 title: James Hall's Resume
 ---
 # James Hall
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+Student at BYU Idaho
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -77,8 +77,8 @@ __Pinnacle Management Group__,
 __Math Tutor__, LDSBC
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2016-2018`
+__Service Missionary__, San Diego, CA
 
 
 
