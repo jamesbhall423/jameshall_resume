@@ -6,10 +6,10 @@ title: James Hall's Resume
 Student at BYU Idaho
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="jamesbhall423@byui.edu">jamesbhall423@byui.edu</a>
+| <a href="https://github.com/byui-cse">Computer Science Program</a>
+| <a href="www.linkedin.com/in/james-hall-4b1a241a0">LinkedIn</a>
+| <a href="https://github.com/jamesbhall423">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
