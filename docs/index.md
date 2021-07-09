@@ -16,18 +16,36 @@ Student at BYU Idaho
 
 ## Education
 
-
 `Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - Computer Science Major
 - 3.8 Major GPA
 
-## Related Experience
+## Projects
 
+__Music Tuner__
+
+- Java Android App
+- Audio Proccessing
+- Project Manager
+
+__Lewis Structure Drawer__
+
+- Java GUI
+- Graphical Rendering
+
+__Othello Game__
+
+- Java GUI
+- Simulated Inellegence through recursive decision tree.
+
+__Manuver Game__
+
+- Java GUI
+- Created Hexagonal Map Interface
 
 ## Service and Work History
-
 
 `2016-2018`
 __Service Missionary__, San Diego, CA
