@@ -20,8 +20,8 @@ Student at BYU Idaho
 `Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
+- Computer Science Major
 - 3.8 Major GPA
-
 
 ## Related Experience
 
@@ -32,10 +32,11 @@ __Brigham Young University - Idaho__, Rexburg, ID
 `2016-2018`
 __Service Missionary__, San Diego, CA
 
-
+`2018`
+__Computers 2 Kids__, San Diego, CA
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2021 -->
 
 
