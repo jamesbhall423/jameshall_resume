@@ -19,31 +19,21 @@ Student at BYU Idaho
 `Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- Computer Science Major
-- 3.8 Major GPA
+- Computer Science Major, 3.8 GPA
 
 ## Projects
 
 __Music Tuner__
 
-- Java Android App
-- Audio Proccessing
 - Project Manager
+- Audio Proccessing
+- Java Android App
 
-__Lewis Structure Drawer__
+__Lewis Structure Drawer__ Graphical Rendering (Java GUI)
 
-- Java GUI
-- Graphical Rendering
+__Othello Game__ - Simulated Inellegence through recursive decision tree (Java GUI)
 
-__Othello Game__
-
-- Java GUI
-- Simulated Inellegence through recursive decision tree.
-
-__Manuver Game__
-
-- Java GUI
-- Created Hexagonal Map Interface
+__Manuver Game__ - Created Hexagonal Map Interface (Java GUI)
 
 ## Service and Work History
 
