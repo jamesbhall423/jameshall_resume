@@ -23,13 +23,9 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Projects
 
-__Music Tuner__
+__Music Tuner Project Manager__ - Audio Proccessing (Java Android App)
 
-- Project Manager
-- Audio Proccessing
-- Java Android App
-
-__Lewis Structure Drawer__ Graphical Rendering (Java GUI)
+__Lewis Structure Drawer__ - Graphical Rendering (Java GUI)
 
 __Othello Game__ - Simulated Inellegence through recursive decision tree (Java GUI)
 
